@@ -165,7 +165,7 @@ impl EnqueuedCallDataValidator {
         assert_eq(
             self.enqueued_call.data.previous_accumulated_data_array_lengths,
             prev_lengths,
-            "mismatch previoius_accumulated_data_array_lengths",
+            "mismatch previous_accumulated_data_array_lengths",
         );
     }
 }
