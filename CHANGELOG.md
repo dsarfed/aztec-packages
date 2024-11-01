@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.62.1](https://github.com/AztecProtocol/aztec-packages/compare/aztec-packages-v0.62.0...aztec-packages-v0.62.1) (2024-11-01)
+
+
+### Features
+
+* **deploys:** OTEL_RESOURCE_ATTRIBUTES ([#9642](https://github.com/AztecProtocol/aztec-packages/issues/9642)) ([86b2490](https://github.com/AztecProtocol/aztec-packages/commit/86b249022167762fb9558aedf579f5648097592a))
+* Faster randomness sampling for field elements ([#9627](https://github.com/AztecProtocol/aztec-packages/issues/9627)) ([b98e93f](https://github.com/AztecProtocol/aztec-packages/commit/b98e93f4befb985c72e8768f378face2dcc79810))
+
+
+### Bug Fixes
+
+* Provernode needs to reference pod ip ([#9650](https://github.com/AztecProtocol/aztec-packages/issues/9650)) ([4eef7e3](https://github.com/AztecProtocol/aztec-packages/commit/4eef7e3d2a1e0539438e3e1c818e7d6c8dd4fef5))
+* Remove extra `number` from return type of `acirGetCircuitSizes` ([#9493](https://github.com/AztecProtocol/aztec-packages/issues/9493)) ([1aef553](https://github.com/AztecProtocol/aztec-packages/commit/1aef553d0991fca9940ed0521dab246de08a0a77))
+
 ## [0.62.0](https://github.com/AztecProtocol/aztec-packages/compare/aztec-packages-v0.61.0...aztec-packages-v0.62.0) (2024-11-01)
 
 

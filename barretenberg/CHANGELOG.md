@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.62.1](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg-v0.62.0...barretenberg-v0.62.1) (2024-11-01)
+
+
+### Features
+
+* Faster randomness sampling for field elements ([#9627](https://github.com/AztecProtocol/aztec-packages/issues/9627)) ([b98e93f](https://github.com/AztecProtocol/aztec-packages/commit/b98e93f4befb985c72e8768f378face2dcc79810))
+
 ## [0.62.0](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg-v0.61.0...barretenberg-v0.62.0) (2024-11-01)
 
 

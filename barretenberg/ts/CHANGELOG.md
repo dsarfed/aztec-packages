@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.62.1](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg.js-v0.62.0...barretenberg.js-v0.62.1) (2024-11-01)
+
+
+### Bug Fixes
+
+* Remove extra `number` from return type of `acirGetCircuitSizes` ([#9493](https://github.com/AztecProtocol/aztec-packages/issues/9493)) ([1aef553](https://github.com/AztecProtocol/aztec-packages/commit/1aef553d0991fca9940ed0521dab246de08a0a77))
+
 ## [0.62.0](https://github.com/AztecProtocol/aztec-packages/compare/barretenberg.js-v0.61.0...barretenberg.js-v0.62.0) (2024-11-01)
 
 
